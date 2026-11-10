@@ -31,7 +31,6 @@ The project involves data cleaning, preprocessing, exploratory data analysis (ED
 
 ```text
 DataCleaning/
-│
 ├── netflix.ipynb
 ├── netflix_titles.csv
 │
@@ -41,7 +40,6 @@ DataCleaning/
 ├── no of season in tv shows.png
 ├── releases over time.png
 ├── top 10 countries .png
-│
 └── README.md
 ```
 
@@ -129,4 +127,14 @@ Alternatively, you can run the notebook directly on Google Colab:
 - Handling missing values in datasets.
 - Working with Pandas DataFrames.
 - Using grouping and aggregation for data analysis.
-- Exploring
+- Exploring datasets through EDA.
+
+Creating meaningful visualizations using Matplotlib.
+
+👩‍💻 Author
+
+Shreyashi Jain
+
+GitHub: @shreyashiijain
+
+LinkedIn: Connect with me
